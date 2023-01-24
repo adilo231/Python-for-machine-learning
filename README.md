@@ -2,7 +2,7 @@
 
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://github.com/sindresorhus/awesome#readme)
+# Awesome README [![Awesome](https://github.com/sindresorhus/awesome#readme)]
 
 > # Python-for-machine-learning
 
