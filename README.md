@@ -2,11 +2,12 @@
 
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome README [![Awesome](https://github.com/sindresorhus/awesome#readme)
+
 > # Python-for-machine-learning
 
 
-
+> # Introduction
 
 L'apprentissage automatique (Machine Learning ML) est essentiellement le domaine de
 l'informatique à l'aide duquel les systèmes informatiques peuvent donner un sens aux données de la
