@@ -16,10 +16,10 @@ et algorithmes qui extraient des modèles à partir de données brutes. Ce cours
 l'apprentissage automatique à l'aide d'un langage de programmation accessible et bien connu, Python.
 Dans ce cours, nous passerons en revue deux volets principaux :
 
-1- Tout d'abord, vous apprendrez à utiliser des outils tels que NumPy, Matplotlib, Scipy, Pandas
+1. Tout d'abord, vous apprendrez à utiliser des outils tels que NumPy, Matplotlib, Scipy, Pandas
 et Seaborn pour effectuer des tâches telles que l'analyse de données, la visualisation de données
 ou l'exploration de données.
 
-2- Deuxièmement, vous obtiendrez un aperçu général des sujets d'apprentissage automatique tels
+2. Deuxièmement, vous obtiendrez un aperçu général des sujets d'apprentissage automatique tels
 que l'apprentissage supervisé ou non supervisé, l'évaluation de modèles et les algorithmes
 d'apprentissage automatique utilisant Python.
