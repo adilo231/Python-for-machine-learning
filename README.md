@@ -7,10 +7,10 @@
 
 
 
-Python Machine Learning Tutorial
+# Python Machine Learning Tutorial
 
 This repository contains a tutorial on using Python for machine learning. The tutorial is designed for beginners who are new to Python or to machine learning.
-Getting Started
+# Getting Started
 
 To get started with the tutorial, you will need to install Python and some Python libraries. We recommend using the Anaconda distribution, which includes many popular Python libraries for machine learning.
 
@@ -23,7 +23,7 @@ bash
 conda env create -f environment.yml
 
 .
-Tutorial Outline
+# Tutorial Outline
 
 The tutorial is divided into several sections, each covering a different aspect of machine learning in Python. The sections are:
 
