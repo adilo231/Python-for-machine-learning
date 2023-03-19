@@ -7,7 +7,7 @@
 
 
 
-# Python Machine Learning Tutorial
+
 
 This repository contains a tutorial on using Python for machine learning. The tutorial is designed for beginners who are new to Python or to machine learning.
 # Getting Started
